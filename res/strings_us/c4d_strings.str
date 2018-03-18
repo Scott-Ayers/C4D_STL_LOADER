@@ -1,0 +1,8 @@
+// C4D-StringResource
+// Identifier	Text
+//This is the text that shows up in the menu
+
+STRINGTABLE
+{
+  IDS_My_Simple_Plugin    "STL Importer";   // Must match the ID in the c4d_symbols.h file (or a custom "#include foo.h" file if that method was used instead)
+}
